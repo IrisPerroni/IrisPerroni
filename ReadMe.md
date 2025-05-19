@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou estudando/trabalhando para ser desenvolvedora backend<br>Atualmente trabalho como developer assistant na Zup Inovation <br>
+Estou estudando/trabalhando para ser desenvolvedora backend<br>Atualmente trabalho como developer na Zup Inovation <br>
 
 
 ## 🌐 Socials:
