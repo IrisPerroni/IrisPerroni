@@ -1,6 +1,9 @@
 # 💫 About Me:
-Estou estudando/trabalhando para ser desenvolvedora backend<br>Atualmente trabalho como developer na Zup Inovation <br>
-
+- 👋 Hi, I’m Iris Romanelli Perroni
+- 👀 Em constante evolução
+- 🌱 Estudando/Trabalhando para ser desenvolvedora BackEnd
+- 💞️  Atualmente estou como developer backend na Zup 
+- 📫 venha conhecer meu perfil :).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iris-romanelli-perroni-45538089/) 
